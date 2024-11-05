@@ -2,7 +2,7 @@
 
 This repository consists sample project done as a part of Udemy Android Jetpack Compose course
 
-##### Compose components
+### Compose components
 
 - Theme
 - Composable function
